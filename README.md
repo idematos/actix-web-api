@@ -1,4 +1,4 @@
-# actix-web-api
+# Actix Web API
 This is a simple REST API built with [Actix Web](https://actix.rs/) that supports CRUD operations with an in-memory data store.
 
 ## Prerequisites

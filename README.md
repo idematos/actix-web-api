@@ -91,8 +91,3 @@ Status: 200 OK
 ```
 
 
-## License
-
-Licensed under the [MIT License](https://opensource.org/license/MIT).
-
-
